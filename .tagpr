@@ -1,3 +1,4 @@
-vPrefix = true
-releaseBranch = main
-versionFile = version.go
+[tagpr]
+	vPrefix = true
+	releaseBranch = main
+	versionFile = version.go

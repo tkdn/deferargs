@@ -10,6 +10,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      issues: write
     outputs:
       tagpr-tag: ${{ steps.run-tagpr.outputs.tag }}
     steps:

@@ -1,0 +1,3 @@
+vPrefix = true
+releaseBranch = main
+versionFile = version.go

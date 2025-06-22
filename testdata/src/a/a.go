@@ -3,7 +3,7 @@ package a
 import "fmt"
 
 func fn() (err error) {
-	defer dumpError(err) // want "defer with variable argument(s): value(s) are evaluated immediately; wrap in a closure if a later update is intended"
+	defer dumpError(err) // want "defer with variable argument\\(s\\): value\\(s\\) are evaluated immediately; wrap in a closure if a later update is intended"
 	return nil
 }
 

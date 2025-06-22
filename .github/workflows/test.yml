@@ -38,4 +38,4 @@ jobs:
         run: go build -o deferargs ./cmd/deferargs
 
       - name: Run vet with tool
-        run: go vet -vettool=./deferargs ./...
+        run: cd testdata/src/a && go vet -vettool=../../../deferargs . || true

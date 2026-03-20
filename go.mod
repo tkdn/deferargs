@@ -1,6 +1,6 @@
 module github.com/tkdn/deferargs
 
-go 1.24.4
+go 1.26.1
 
 require (
 	github.com/gostaticanalysis/testutil v0.6.1

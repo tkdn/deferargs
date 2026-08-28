@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.1.4](https://github.com/tkdn/deferargs/compare/v0.1.3...v0.1.4) - 2026-08-28
+
+- Update actions/checkout action to v7 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/28
+- Update actions/setup-go action to v6.5.0 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/29
+- Update goreleaser/goreleaser-action action to v7.2.3 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/30
+- Update Songmu/tagpr action to v1.20.2 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/31
+- Update actions/setup-go action to v7 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/32
+
 ## [v0.1.3](https://github.com/tkdn/deferargs/compare/v0.1.2...v0.1.3) - 2026-08-28
 
 - feat: update to Go 1.27 by @tkdn in https://github.com/tkdn/deferargs/pull/34

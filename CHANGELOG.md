@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.3](https://github.com/tkdn/deferargs/compare/v0.1.2...v0.1.3) - 2026-08-28
+
+- feat: update to Go 1.27 by @tkdn in https://github.com/tkdn/deferargs/pull/34
+
 ## [v0.1.2](https://github.com/tkdn/deferargs/compare/v0.1.1...v0.1.2) - 2026-06-11
 
 - Update actions/setup-go action to v6.4.0 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/21

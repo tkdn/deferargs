@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.5](https://github.com/tkdn/deferargs/compare/v0.1.4...v0.1.5) - 2026-09-19
+
+- Update module golang.org/x/tools to v0.50.0 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/38
+- Update Songmu/tagpr action to v1.20.3 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/37
+
 ## [v0.1.4](https://github.com/tkdn/deferargs/compare/v0.1.3...v0.1.4) - 2026-08-28
 
 - Update actions/checkout action to v7 by @renovate[bot] in https://github.com/tkdn/deferargs/pull/28
